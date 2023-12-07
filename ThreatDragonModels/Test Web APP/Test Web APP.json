@@ -1,0 +1,26 @@
+{
+  "version": "2.1.2",
+  "summary": {
+    "title": "Test Web APP",
+    "owner": "Manikantha ",
+    "description": "Small scale banking app, loging auth model, user, admin",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.1.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Raj",
+    "threatTop": 0
+  }
+}
